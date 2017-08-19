@@ -1,4 +1,4 @@
-#00BFFF@charset "UTF-8";
+@charset "UTF-8";
 /* This line will import “Montserrat” font from google web fonts */
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
@@ -83,7 +83,7 @@
 	2. Header 
 -------------------------------------------------------------------*/
 #header, .row1{
-	background-color:#FF8C00;
+	background-color:#2B2B2B;
 	min-height: 500px;
 }
 
@@ -238,7 +238,7 @@
 -------------------------------------------------------------------*/
 #features, .row3{
 	background-color:#152031;
-	background-image:url(https://cdn.rawgit.com/MiraApsari/css/c17647f0/images/bg1.png);
+	background-image:url(https://accsunlimited.us/bg1.png);
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-size: cover;
@@ -330,7 +330,7 @@
 -------------------------------------------------------------------*/
 #prices, .row5{
 	background-color:#D8D8D8;
-	background-image:url(https://cdn.rawgit.com/MiraApsari/css/c17647f0/images/bg2.jpg);
+	background-image:url(https://accsunlimited.us/bg2.jpg);
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-size: cover;
